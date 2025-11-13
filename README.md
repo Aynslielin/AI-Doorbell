@@ -65,5 +65,8 @@ or
 ---
 
 ## **References**
-JXF37 1920x1080 CMOS Image Sensor:
-[](https://how2electronics.com/1080p-mp4-video-recorder-with-amb82-mini-iot-ai-camera/)
+- **RTL8735B:** https://www.amebaiot.com/en/amebapro2/
+- **Ameba Arduino:** https://www.amebaiot.com/en/ameba-arduino-summary/
+- **Amebapro2 AMB82-mini Arduino Example Guides:** https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples
+- **Amebapro2 AMB82-mini Arduino getting started:** https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/
+- **JXF37 1920x1080 CMOS Image Sensor:** https://how2electronics.com/1080p-mp4-video-recorder-with-amb82-mini-iot-ai-camera/
