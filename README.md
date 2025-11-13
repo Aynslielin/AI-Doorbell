@@ -25,7 +25,7 @@ This function will transfer the images that the doorbell captured and send the p
 ### Code of Google Appscript:
 [Code of Google Appscript](https://script.google.com/macros/s/AKfycbxADuxUreZnrB5_0JEkr9j_94QvyhGlU7xKOwo7H2MjJ0tIMixrALXS8bcJQ7dAqk-PeQ/exec)  
 or  
-[Code Copy of Google Appscript](https://github.com/Aynslielin/AI-Doorbell/blob/main/Google%20Appscript%20Code)
+[Code Copy of Google Appscript on GitHub](https://github.com/Aynslielin/AI-Doorbell/blob/main/Google%20Appscript%20Code)
 
 ### Folder of Google Drive:
 [Captured Folder of Google Drive](https://drive.google.com/drive/folders/1US1-obtD7ScF2JX0lzY9FZSsrJnKf9m0?usp=sharing)
@@ -34,7 +34,8 @@ or
 ![](https://github.com/Aynslielin/AI-Doorbell/blob/main/line%20notify.jpg)
 
 ### **Videos of Operating**
-[video1](https://youtu.be/YFg1xQlTuxs](https://www.youtube.com/watch?v=YFg1xQlTuxs&t=0s)) and 
+[video1](https://youtu.be/YFg1xQlTuxs](https://www.youtube.com/watch?v=YFg1xQlTuxs&t=0s))  
+or  
 [video2](https://www.youtube.com/watch?v=IumI-uAtkRU&t=0s)
 
 ---
