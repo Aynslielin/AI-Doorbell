@@ -4,21 +4,21 @@ Welcome to the AI-Doorbell wiki!
 This is the AI-Doorbell wiki report. In these pages, we'll introduce our product. Please enjoy!
 
 In order to produce an intelligence doorbell, we hope the doorbell can alert us that someone is outside the door, even recognize who he/she is. The ideal functions of the doorbell would be:
-### 1.Face Detection:
+## 1.Face Detection:
 To detect that is there anyone outside the door.
 
-### 2.Face Recognizing:
+## 2.Face Recognizing:
 To recognize who the people are. 
 
-### 3.Recording Video and Capturing Images:
+## 3.Recording Video and Capturing Images:
 To record the video and capture the photos of the people who outside the door. Then we can save these images in case of emergencies
 
-### 4.Line Notify
+## 4.Line Notify
 To send the videos and photos to our line notify to alert us.
 
 ---
 
-# **Functions**
+## **Functions**
 ## 1.Face Detection
 This function can help us to know someone is outside the door. 
 
@@ -44,7 +44,7 @@ https://drive.google.com/drive/folders/1US1-obtD7ScF2JX0lzY9FZSsrJnKf9m0?usp=sha
 ### Line Notify Image:
 ![](https://github.com/Aynslielin/AI-Doorbell/blob/main/line%20notify.jpg)
 
-# **Videos of Operating**
+### **Videos of Operating**
 video1:https://youtu.be/YFg1xQlTuxs](https://www.youtube.com/watch?v=YFg1xQlTuxs&t=0s)
 
 video2:https://www.youtube.com/watch?v=IumI-uAtkRU&t=0s
