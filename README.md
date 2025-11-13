@@ -14,6 +14,8 @@ In this project, we would like to build an intellectual doorbell that alerts the
 
 ---
 ## **Main Functions**
+[Main Code](https://github.com/Aynslielin/AI-Doorbell/blob/main/demo_accomplish.ino)
+
 ## 1.Face Detection
 This function would allow the camera to detect whether the object outside the door is human or not.
 ### Face Detection Image:
