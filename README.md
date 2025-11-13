@@ -15,3 +15,6 @@ To record the video and capture the photos of the people who outside the door. T
 
 ### 4.Line Notify
 To send the videos and photos to our line notify to alert us.
+
+---
+
