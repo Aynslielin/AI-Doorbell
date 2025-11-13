@@ -45,7 +45,7 @@ video2:https://www.youtube.com/watch?v=IumI-uAtkRU&t=0s
 ## **Materials and Tools** 
 ### **Realtek AMB82-mini**
 ![](https://www.amebaiot.com/wp-content/uploads/2023/03/amb82_mini.png)
-https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Intro.html
+[Edge AI MCU](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Intro.html)
 [RTL8735B](https://www.amebaiot.com/en/amebapro2/): 32-bit Arm v8M, up to 500MHz, 768KB ROM, 512KB RAM, 16MB Flash (MCM embedded DDR2/DDR3L up to 128MB)
 802.11 a/b/g/n WiFi 2.4GHz/5GHz, BLE 5.1, NN Engine 0.4 TOPS, Crypto Engine, Audo Codec, …
 
