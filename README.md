@@ -23,14 +23,14 @@ This function would capture images when the doorbell detects the faces outside t
 This function will transfer the images that the doorbell captured and send the photo to the Google Drive. And we use the ifttt to connect Google Drive and Line notify, then ifttt will make Line notify send the photo that the Drive recieved to our Line and show the image. So we can see who is outside the door.
 
 ### Code of Google Appscript:
-https://script.google.com/macros/s/AKfycbxADuxUreZnrB5_0JEkr9j_94QvyhGlU7xKOwo7H2MjJ0tIMixrALXS8bcJQ7dAqk-PeQ/exec
+[Code of Google Appscript](https://script.google.com/macros/s/AKfycbxADuxUreZnrB5_0JEkr9j_94QvyhGlU7xKOwo7H2MjJ0tIMixrALXS8bcJQ7dAqk-PeQ/exec)
 
 or
 
 https://github.com/Aynslielin/AI-Doorbell/blob/main/Google%20Appscript%20Code
 
 ### Folder of Google Drive:
-https://drive.google.com/drive/folders/1US1-obtD7ScF2JX0lzY9FZSsrJnKf9m0?usp=sharing
+[Captured Folder of Google Drive](https://drive.google.com/drive/folders/1US1-obtD7ScF2JX0lzY9FZSsrJnKf9m0?usp=sharing)
 
 ### Line Notify Image:
 ![](https://github.com/Aynslielin/AI-Doorbell/blob/main/line%20notify.jpg)
