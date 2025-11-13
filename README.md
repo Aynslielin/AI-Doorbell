@@ -65,4 +65,4 @@ or
 ---
 
 ## **References**
-JXF37 1920x1080 CMOS Image Sensor:![](https://how2electronics.com/1080p-mp4-video-recorder-with-amb82-mini-iot-ai-camera/)
+JXF37 1920x1080 CMOS Image Sensor:[](https://how2electronics.com/1080p-mp4-video-recorder-with-amb82-mini-iot-ai-camera/)
