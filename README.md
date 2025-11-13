@@ -55,4 +55,5 @@ https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Intro.ht
 
 [Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)
 
-***
+### **JXF37 1920x1080 CMOS Image Sensor**
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oemcameramodules.com%2Fsale-40210774-jx-f37p-sensor-2mp-1080p-30fps-mipi-camera-module-high-performance.html&psig=AOvVaw3r8-VujZpHSSWCg1oCGWF_&ust=1763127993153000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNipveGh75ADFQAAAAAdAAAAABAE)
