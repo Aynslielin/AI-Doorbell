@@ -34,9 +34,8 @@ or
 ![](https://github.com/Aynslielin/AI-Doorbell/blob/main/line%20notify.jpg)
 
 ### **Videos of Operating**
-video1:https://youtu.be/YFg1xQlTuxs](https://www.youtube.com/watch?v=YFg1xQlTuxs&t=0s)
-
-video2:https://www.youtube.com/watch?v=IumI-uAtkRU&t=0s
+(video1:)[https://youtu.be/YFg1xQlTuxs](https://www.youtube.com/watch?v=YFg1xQlTuxs&t=0s)]
+(video2:)[https://www.youtube.com/watch?v=IumI-uAtkRU&t=0s]
 
 ---
 
