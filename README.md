@@ -13,7 +13,7 @@ In this project, we would like to build an intellectual doorbell that alerts the
 ![](https://github.com/Wuwenchie/smart-doorbell/blob/main/IMG_D14E690486E6-1.JPEG)
 
 ---
-## **Main Functions**
+## **Main Functions and Method**
 [Main Code](https://github.com/Aynslielin/AI-Doorbell/blob/main/demo_accomplish.ino)
 
 ## 1.Face Detection
@@ -59,3 +59,10 @@ or
 
 ### **JXF37 1920x1080 CMOS Image Sensor**
 ![](https://how2electronics.com/wp-content/uploads/2023/05/JXF37-1920x1080-full-HD-CMOS-image-sensor.jpg)
+
+### **Arduino IDE**
+
+---
+
+## **References**
+JXF37 1920x1080 CMOS Image Sensor:![](https://how2electronics.com/1080p-mp4-video-recorder-with-amb82-mini-iot-ai-camera/)
