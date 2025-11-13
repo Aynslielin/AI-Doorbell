@@ -1,32 +1,23 @@
 # AI-Doorbell
-Welcome to the AI-Doorbell wiki!
+This is the AI-Doorbell Readme. In this page, it'll introduce our AI-Doorbell project of the MCU Interface and Driver Design course. Please enjoy!
+-**Institution**-: National Taiwan Ocean University, Electrical Engineering Dept.
+-**Instructor**-: Richard Kuo
+-**Members**-: 林昕瑋(Hsin-Wei Lin), 吳玟頡, 邱筠婷, 陳微凌, 莊詠瑜, 溫翔宇
 
-This is the AI-Doorbell wiki report. In these pages, we'll introduce our product. Please enjoy!
-
-In order to produce an intelligence doorbell, we hope the doorbell can alert us that someone is outside the door, even recognize who he/she is. The ideal functions of the doorbell would be:
-## 1.Face Detection:
-To detect that is there anyone outside the door.
-
-## 2.Face Recognizing:
-To recognize who the people are. 
-
-## 3.Recording Video and Capturing Images:
-To record the video and capture the photos of the people who outside the door. Then we can save these images in case of emergencies
-
-## 4.Line Notify
-To send the videos and photos to our line notify to alert us.
+---
+## **Introduction**
+In this project, we would like to build an intellectual doorbell that alerts the user who the visitor is. Hence, we decided to integrate the face detection function, RTSP libraries, and Line Notify Application to send user the visitor's photo that alerts the user.
 
 ---
 
-## **Functions**
+## **Main Functions**
 ## 1.Face Detection
-This function can help us to know someone is outside the door. 
-
+This function would allow the camera to detect whether the object outside the door is human or not.
 ### Face Detection Image:
 ![](https://github.com/Aynslielin/AI-Doorbell/blob/main/face%20detection.jpg)
 
 ## 2.Capture Image (transfer photo to Google Drive)
-This function will capture images when the doorbell detects the faces outside the door.
+This function would capture images when the doorbell detects the faces outside the door.
 
 ## 3.Google Appscipts & Line notify (ifttt sent the photo from Google Drive to Line notify)
 This function will transfer the images that the doorbell captured and send the photo to the Google Drive. And we use the ifttt to connect Google Drive and Line notify, then ifttt will make Line notify send the photo that the Drive recieved to our Line and show the image. So we can see who is outside the door.
@@ -51,20 +42,10 @@ video2:https://www.youtube.com/watch?v=IumI-uAtkRU&t=0s
 
 ---
 
-# **AMB82-MINI overview** 
-
-https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Intro.html
-
-# **Edge-AI MCU Introduction**
-
-introduction to Edge-AI MCUs, MCU interfaces.
-***
-
-
-## **Edge-AI MCU**
-
+## **Materials** 
 ### **Realtek AMB82-mini**
 ![](https://www.amebaiot.com/wp-content/uploads/2023/03/amb82_mini.png)
+https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Intro.html
 [RTL8735B](https://www.amebaiot.com/en/amebapro2/): 32-bit Arm v8M, up to 500MHz, 768KB ROM, 512KB RAM, 16MB Flash (MCM embedded DDR2/DDR3L up to 128MB)
 802.11 a/b/g/n WiFi 2.4GHz/5GHz, BLE 5.1, NN Engine 0.4 TOPS, Crypto Engine, Audo Codec, …
 
@@ -73,17 +54,6 @@ introduction to Edge-AI MCUs, MCU interfaces.
 [Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples)
 
 [Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)
-
-***
-
-
-***
-### [**ESP32-S3-BOX-3**](https://www.espressif.com/en/news/ESP32-S3-BOX-3)
-
-[Unboxing ESP32-S3-BOX-3](https://youtu.be/4W3w93GQk7E?si=raFVYcfp9yoHq9GG)
-
-[Hardware Overview](https://github.com/espressif/esp-box/blob/master/docs/hardware_overview/esp32_s3_box_3/hardware_overview_for_box_3.md)
-![](https://github.com/espressif/esp-box/raw/master/docs/_static/box_3_hardware_overview/esp32_s3_box_3.png)
 
 ***
 
