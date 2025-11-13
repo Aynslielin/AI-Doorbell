@@ -9,7 +9,10 @@ This is the AI-Doorbell Readme. In this page, it'll introduce our AI-Doorbell pr
 In this project, we would like to build an intellectual doorbell that alerts the user who the visitor is. Hence, we decided to integrate the face detection function, RTSP libraries, and Line Notify Application to send user the visitor's photo that alerts the user.
 
 ---
+## **System Block Diagram**
+![](https://github.com/Wuwenchie/smart-doorbell/blob/main/IMG_D14E690486E6-1.JPEG)
 
+---
 ## **Main Functions**
 ## 1.Face Detection
 This function would allow the camera to detect whether the object outside the door is human or not.
